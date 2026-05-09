@@ -23,7 +23,7 @@
 ## 🌐 Deploy
 
 ### Heroku
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XdKing2/free-sc-mini)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tahirIqbal12/free-sc-mini-main.git)
 
 ### Other Platforms
 - Railway
